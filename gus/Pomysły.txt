@@ -1,0 +1,15 @@
+PODSTAWOWE
+-Animacja powolnego zanikania t³a po najechaniu na przycisk
+-Napis Imiê i Nazwisko itp. po naciœnieciu zmienia kolor na ten z obramowania
+-Delikatniejsza czci¹ka
+-Przeróbka strony g³ównej
+-Zmiana na pojedyncz¹ animacje sliedar
+-Dodanie minaturek do sliedra
+-lekkie obnizenie przycisków nawigacji
+-Zwiêkszenie strony (wiêcej miejsca, ewentualnie jakieœ dodatkowe rzeczy)
+
+
+
+DODATKOWE
+-*Zmiana slidera
+-*Dodanie loadera
